@@ -21,6 +21,7 @@ And install chrome and chrome web driver
 
 ## Authors
 - [@ahemtan](https://www.github.com/ahemtan)
+- [CTTO Tech](https://www.youtube.com/@TechWithTim)
 
 
 ![App Screenshot](https://media.tenor.com/nBDDUnOctDEAAAAd/hecker.gif)
